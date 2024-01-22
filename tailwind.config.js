@@ -8,11 +8,20 @@ module.exports = {
         poppins: ["Poppins", "sans-serif"],
       },
       colors: {
-        primary: {
-            light: '#3abd72',
-            medium: '#17a75e',
-            dark: '#0c6725'
-        }
+        //left a wide range of the existing colors for possible tweaks/change in future
+        'chateau-green': {
+            '50': '#f0fdf5',
+            '100': '#dcfcea',
+            '200': '#bbf7d6',
+            '300': '#86efb7',
+            '400': '#4ade8f',
+            '500': '#22c56f',
+            '600': '#17a75b',
+            '700': '#158048',
+            '800': '#16653c',
+            '900': '#145334',
+            '950': '#052e1a',
+        },
       }
     },
     screens: {
