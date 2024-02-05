@@ -8,7 +8,7 @@ module.exports = {
         poppins: ["Poppins", "sans-serif"],
       },
       colors: {
-        //left a wide range of the existing colors for possible tweaks/change in future
+        //left a wide range of the existing color scheme for possible tweaks in future
         'chateau-green': {
             '50': '#f0fdf5',
             '100': '#dcfcea',
